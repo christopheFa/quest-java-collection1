@@ -1,3 +1,5 @@
+package fr.wildcodeschool.collection;
+
 public class Hero {
 
     // attributs
